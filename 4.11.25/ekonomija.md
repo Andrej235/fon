@@ -57,7 +57,7 @@ Uslovi prelaska sa naturalne na robnu privredu:
 | Organizaciona struktura                               | rodovi, feudi, inokosna, gazdninska | samostalnost, tj. samostalni privredni subjekti |
 | Cilj                                                  | sopstvene potrebe                   | trziste                                         |
 | Karakter drustvenih veza izmedju privrednih subjekata | neposredan                          | posredan                                        |
-| Stepen spontanosti u orazovanju privrednih tokova     | plansi                              | stihijski                                       |
+| Stepen spontanosti u orazovanju privrednih tokova     | planski                              | stihijski                                       |
 
 ### Pojam i svojstva robe
 
@@ -170,6 +170,7 @@ Postoje **_tri_** ekonomske organizacije (pitanja):
    - Upotreba materijalnih dobara i usluga u cilju proizvodnje
 
 2. Neproizvodna potrosnja
+
    - Upotreba proizvoda da zadovoljimo svoje potrebe
 
 ### Raspodela
