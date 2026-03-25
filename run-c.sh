@@ -1,0 +1,1 @@
+cc $1 -o /tmp/principi.out && /tmp/principi.out
