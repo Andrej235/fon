@@ -1,0 +1,39 @@
+# IDEs
+.vscode/
+.idea/
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Compiled libraries
+*.a
+*.lib
+*.so
+*.dylib
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
+cmake-build-*/
+
+# Dependencies
+*.d
